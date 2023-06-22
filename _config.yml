@@ -1,0 +1,161 @@
+# Site
+favicon: images/favicon(1).ico
+
+# Content configuration version
+version: 2
+
+# Personal info
+name: Harikrishnan Sreekumar
+title: Computational Researcher
+email: hk.sreekumar@icloud.com
+website: https://hksreekumar.github.io/profile/
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+linkedin_username: hksreekumar
+github_username:  hksreekumar
+instagram_username: harikrishnan_hkks
+orcid_username: 0000-0001-9803-7968
+
+# Additional icon links
+additional_links:
+- title: ResearchGate
+  icon: fab fa-researchgate
+  url: https://www.researchgate.net/profile/Harikrishnan-K-Sreekumar
+
+# About Section
+about_title: About
+about_profile_image: images/hk.jpg
+about_content: | 
+  <tt>Hello world</tt>! I am Harikrishnan Sreekumar born on 28 November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
+  
+  I am a computational researcher specialized in the research of efficient numerical methods and solving strategies for application in the field of vibroacoustics. Experienced with developing high performance numerical softwares, from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies (also with latest Intel math libraries and tools) and model order reduction techniques so as to reduce large-scale dimension of computational models.
+
+  *Get in touch!*
+content:
+  - title: Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: Technische Universität Braunschweig | Institute for Acoustics, Germany
+        link: https://www.tu-braunschweig.de/ina/institut/team/harikrishnan-k-sreekumar
+        link_text: tu-braunschweig.de
+        sub_title: Researcher and Doctoral Student
+        caption: February 2019 - Present
+        description: | 
+            - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
+            - Researcher for the DFG Suresoft for Sustainable Research Software Development and Deployment
+            - Contact person and lead developer for the in-house research code elPaSo
+      - layout: top
+        title: BMW Group, Munich | Research, New Technologies, Innovations
+        sub_title: Master Thesis Intern
+        caption: June 2018 - December 2018
+        description: | 
+            - Thesis work on Krylov subspace model order reduction in vibroacoustics
+      - layout: top
+        title: BMW Group, Munich | Research, New Technologies, Innovations
+        sub_title: Research Intern
+        caption: November 2017 - June 2018
+        description: | 
+            - Development of an in-house research code based on finite element method written in C++
+      - layout: top
+        title: Technische Universität Braunschweig | Institute for Engineering Design
+        sub_title: Student research assistant
+        caption: June 2016 - October 2017
+        description: | 
+            - Acoustic simulation of various geometries for static, frequency and time domain analysis
+            - Development of an in-house research code elPaSo based on FEM in C++
+            - Development of an uncertainty quantification module in elPaSo
+
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top
+        title: Master of Science in Computational Sciences in Engineering
+        sub_title: Technische Universität Braunschweig
+        caption: October 2015 - December 2018
+        description: |
+            - Master thesis: Krylov-based model order reduction in vibroacoustics 
+            - Student project: Transmission loss calculations of aircraft fuselage structures
+            - Main subjects: Finite element method, Computational acoustics, Linear continuum mechanics, Contact mechanics, Advanced object oriented C++ techniques, Partial differential equations, Ordinary differential equations
+            - Other subjects: Algorithms and programming, Isogeometric analysis, Computational aeroacoustics
+
+      - layout: top
+        title: Bachelor of Technology in Mechanical Engineering
+        sub_title: University of Kerala, India
+        caption: September 2011 - April 2015
+        description: | 
+            - Main subjects: Design of Machine Elements, Heat and Mass Transfer, Dynamics of Machinery, Theory of Machines, Refrigeration and Air Conditioning, Mechatronics, Gas Dynamics, Non Destructive Testing, Automobile Engineering, Thermal Engineering, Fluid Mechanics & Machines, Thermodynamics
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: top-middle
+        quote: >
+          For latest publications visit my profile on ResearchGate
+        description: |
+          **Research papers** 
+          - H. K. Sreekumar, L. Outzen, U. Römer and S. C. Langer: Clustering-based parametric surrogate modeling of vibroacoustic problems assisted by neural networks and active subspace method, in: Adaptive modeling and simulation (ADMOS) 2023. DOI: [10.23967/admos.2023.009](https://doi.org/10.23967/admos.2023.009)
+          - H. K. Sreekumar, C. Blech, S. C. Langer: Sustainable development and deployment of an acoustic FEM research software. In: Proceedings of DAGA 2023, Hamburg, Germany. 2023.
+          - H. K. Sreekumar, Y. Hüpel, and S. C. Langer: Active subspace realization for accelerated training of parametric reduced-order models in vibroacoustics. In Proceedings of the ICA 2022, Gyeongju, Korea, 2022.
+          - C. Blech, N. Dreyer, B. Friebel, C. R. Jacob, M. Shamil Jassim, L. Jehl, R. Kapitza, M. Krafczyk, T. Kürner, S. C. Langer, J. Linxweiler, M.Mahhouk, S.Marcus, I.Messadi, S. Peters, J.-M. Pilawa, H. K. Sreekumar, R. Strötgen, K. Stump, A. Vogel, M. Wolter: SURESOFT: Towards Sustainable Research Software. In: campusSOURCE Award 2022. 2022. DOI: [10.24355/dbbs.084-202210121528-0](https://doi.org/10.24355/dbbs.084-202210121528-0)
+          - L. Hermann, H. K. Sreekumar, S. C. Langer, U. Römer: A statistical approach for the fusion of data and finite element analysis in vibroacoustics, In: Proceedings of DAGA 2022, Pages 895-898, Stuttgart. 2022.
+          - U. Römer, M. Bollhöfer, H. K. Sreekumar, C. Blech, and S. C. Langer: An adaptive sparse grid rational arnoldi method for uncertainty quantification of dynamical systems in the frequency domain. International Journal for Numerical Methods in Engineering, DOI: [10.1002/nme.6761](https://doi.org/10.1002/nme.6761), 2021.
+          - C. Blech, H. K. Sreekumar, U. Römer, M. Bollhöfer, S. C. Langer: Ein adaptives hybrides Verfahren zur Modellordnungsreduktion von dynamischen Systemen im Frequenzbereich. In: Proceedings of DAGA 2021, Vienna, Austria. 2021.
+          - H. K. Sreekumar, R. Ullmann, S. Sicklinger, S. C. Langer: Efficient Krylov subspace techniques for model order reduction of automotive structures in vibroacoustic applications. In: Model Reduction of Complex Dynamical Systems. International Series of Numerical Mathematics, vol 171. Birkhäuser, Cham. DOI: [10.1007/978-3-030-72983-7_12](https://doi.org/10.1007/978-3-030-72983-7_12). 2021.
+          - H. K. Sreekumar, C. Blech, S. C. Langer: Large-scale vibroacoustic simulations using parallel direct solvers for high-performance clusters. In: Proceedings of DAGA 2021, Vienna, Austria. 2021.
+          - Y. Hüpel, H. K. Sreekumar, S. C. Langer:  Pole-Matching Technique for Parametric Model Order Reduction of Second Order Vibroacoustic Systems. In: Proceedings of DAGA 2021, Vienna, Austria. 2021.
+
+          **Software publications**
+          - H. K. Sreekumar, S. C. Langer: elPaSo Core - Elementary parallel solver core module for high performance vibroacoustic simulations. DOI: [10.24355/dbbs.084-202301301305-0](https://doi.org/10.24355/dbbs.084-202301301305-0). 2023.
+          - H. K. Sreekumar, C. Blech, S. C. Langer: elPaSo AUTOMATE - Automated testing framework for validation and verification of a vibroacoustic simulation tool. DOI: [10.24355/dbbs.084-202301301258-0](https://doi.org/10.24355/dbbs.084-202301301258-0). 2023.
+  
+  - title: Misc activities
+    layout: list
+    content:
+      - layout: top-middle
+        description: | 
+          **Conducted workshops**
+          - [Online] Workshop for TU Braunschweig in August 2022: Suresoft workshop series - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation. # participants: 47. DOI: [10.24355/dbbs.084-202212141407-0](https://doi.org/10.24355/dbbs.084-202212141407-0)
+          - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
+
+          **Teaching activities**
+          - Teaching assistant for master course "Computational Acoustics". Summer semester 2023.
+          - Teaching assistant for master course "Computational Acoustics". Summer semester 2022.
+          - Teaching assistant for master course "Computational Acoustics". Summer semester 2021.
+          - Teaching assistant for master course "Computational Acoustics". Summer semester 2020.
+          - Teaching assistant for master course "Computational Acoustics". Summer semester 2019.
+
+          **Talks**
+          - Machine-Learning and efficient computational models in acoustics. TU Braunschweig lecture series Fascination Acoustics in summer semester 2021.
+
+          **Supervised theses**
+          - Low-rank approximation based separate bases reduction approaches for coupled vibroacoustic models. Student Project. 2023.
+          - A statistical approach for the fusion of data and finite element analysis in vibroacoustics. Master Thesis. 2021.
+          - Pole-matching technique for parametric model order reduction of second-order vibroacoustic systems. Master Thesis. 2021.
+          - Efficient parameterization of vibroacoustic models for model order reduction. Student Project. 2020.
+          - Modal projection techniques for model order reduction of vibroacoustic systems. Student Project. 2020.
+          - Finite element based approach on defining standards and benchmarks for an automated testing environment. Student Project. 2020.
+  
+  - title: Hobbies
+    layout: list
+    content:
+      - layout: top-middle
+        description: | 
+          Cycling 🚴, photography 📷, travelling ✈️
+
+          *I will soon post my favorite pictures here ;)*
+
+# Footer
+footer_show_references: false
+
+# Build settings
+remote_theme: sproogen/resume-theme
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
