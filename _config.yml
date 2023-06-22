@@ -5,7 +5,7 @@ favicon: images/favicon(1).ico
 version: 2
 
 # Personal info
-name: Harikrishnan Sreekumar
+name: Harikrishnan Sreekumar, M.Sc.
 title: Computational Researcher
 email: hk.sreekumar@icloud.com
 website: https://hksreekumar.github.io/profile/
@@ -121,11 +121,11 @@ content:
           - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
 
           **Teaching activities**
-          - Teaching assistant for master course "Computational Acoustics". Summer semester 2023.
-          - Teaching assistant for master course "Computational Acoustics". Summer semester 2022.
-          - Teaching assistant for master course "Computational Acoustics". Summer semester 2021.
-          - Teaching assistant for master course "Computational Acoustics". Summer semester 2020.
-          - Teaching assistant for master course "Computational Acoustics". Summer semester 2019.
+          - Teaching assistant for master course "Computational Acoustics". 2023.
+          - Teaching assistant for master course "Computational Acoustics". 2022.
+          - Teaching assistant for master course "Computational Acoustics". 2021.
+          - Teaching assistant for master course "Computational Acoustics". 2020.
+          - Teaching assistant for master course "Computational Acoustics". 2019.
 
           **Talks**
           - Machine-Learning and efficient computational models in acoustics. TU Braunschweig lecture series Fascination Acoustics in summer semester 2021.
