@@ -29,7 +29,7 @@ additional_links:
 about_title: About
 about_profile_image: images/hk.jpg
 about_content: | 
-  <tt>Hello world</tt>! I am Harikrishnan Sreekumar born on 28 November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
+  Hi! I am Harikrishnan Sreekumar born on 28 November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
   
   I am a computational researcher specialized in the research of efficient numerical methods and solving strategies for application in the field of vibroacoustics. Experienced with developing high performance numerical softwares, from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies (also with latest Intel math libraries and tools) and model order reduction techniques so as to reduce large-scale dimension of computational models.
 
