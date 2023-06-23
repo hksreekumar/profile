@@ -117,6 +117,7 @@ content:
       - layout: top-middle
         description: | 
           **Conducted workshops**
+          - [Online] Workshop for HeFDI (Hessian Research Data Infrastructures) Code School in June 2023 - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation. # participants: 72. DOI: [10.5281/zenodo.8069917](https://doi.org/10.5281/zenodo.8069917)
           - [Online] Workshop for TU Braunschweig in August 2022: Suresoft workshop series - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation. # participants: 47. DOI: [10.24355/dbbs.084-202212141407-0](https://doi.org/10.24355/dbbs.084-202212141407-0)
           - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
 
