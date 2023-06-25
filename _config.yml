@@ -25,6 +25,11 @@ additional_links:
   icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Harikrishnan-K-Sreekumar
 
+# Google Analytics and Tag Manager
+# Using more than one of these may cause issues with reporting
+google_analytics: "G-VKYTELGFBC"
+
+
 # About Section
 about_title: About
 about_profile_image: images/hk.jpg
