@@ -27,8 +27,8 @@ additional_links:
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
-google_analytics: "G-VKYTELGFBC"
-
+google_analytics: G-VKYTELGFBC
+google_site_verification: _nFGPGIAoZhF300eX0YmKZd6kZZsDivsyOS9e4YIiuA
 
 # About Section
 about_title: About
