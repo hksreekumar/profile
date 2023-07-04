@@ -38,20 +38,24 @@ about_content: |
   
   I am a computational researcher specialized in the research of efficient numerical methods and solving strategies for application in the field of vibroacoustics. Experienced with developing high performance numerical softwares, from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies (also with latest Intel math libraries and tools) and model order reduction techniques so as to reduce large-scale dimension of computational models.
 
+  My interests: <br/>
+  <mark>Numerical methods</mark> <mark>Algorithms</mark> <mark>C++</mark> <mark>Data-driven methods</mark> <mark>Dimensionality reduction</mark><br/>
+  <mark>High performance computing</mark> <mark>Computational code development</mark>
+
   *Get in touch!*
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Technische Universität Braunschweig | Institute for Acoustics, Germany
+        title: Technische Universität Braunschweig | Institute for Acoustics and Dynamics, Germany
         link: https://www.tu-braunschweig.de/ina/institut/team/harikrishnan-k-sreekumar
         link_text: tu-braunschweig.de
         sub_title: Researcher and Doctoral Student
         caption: February 2019 - Present
         description: | 
             - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
-            - Researcher for the DFG Suresoft for Sustainable Research Software Development and Deployment
+            - Researcher for the DFG Suresoft project for Sustainable Research Software Development and Deployment
             - Contact person and lead developer for the in-house research code elPaSo
       - layout: top
         title: BMW Group, Munich | Research, New Technologies, Innovations
