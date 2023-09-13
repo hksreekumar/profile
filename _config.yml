@@ -105,6 +105,7 @@ content:
           For latest publications visit my profile on ResearchGate
         description: |
           **Research papers** 
+          - Y. Hüpel, C. Blech, H. K. Sreekumar, S. C. Langer: Efficient solutions of preconditioned large‐scale systems for simulative aircraft cabin noise assessment. In: Proceedings in Applied Mathematics and Mechanics. DOI: [10.1002/pamm.202300102](https://doi.org/10.1002/pamm.202300102). 2023.
           - H. K. Sreekumar, L. Outzen, U. Römer and S. C. Langer: Clustering-based parametric surrogate modeling of vibroacoustic problems assisted by neural networks and active subspace method, in: Adaptive modeling and simulation (ADMOS) 2023. DOI: [10.23967/admos.2023.009](https://doi.org/10.23967/admos.2023.009)
           - H. K. Sreekumar, C. Blech, S. C. Langer: Sustainable development and deployment of an acoustic FEM research software. In: Proceedings of DAGA 2023, Hamburg, Germany. 2023.
           - H. K. Sreekumar, Y. Hüpel, and S. C. Langer: Active subspace realization for accelerated training of parametric reduced-order models in vibroacoustics. In Proceedings of the ICA 2022, Gyeongju, Korea, 2022.
