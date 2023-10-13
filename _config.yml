@@ -34,7 +34,7 @@ google_site_verification: _nFGPGIAoZhF300eX0YmKZd6kZZsDivsyOS9e4YIiuA
 about_title: About
 about_profile_image: images/hk.jpg
 about_content: | 
-  Hi! I am Harikrishnan Sreekumar born on 28 November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
+  Hi! I am Harikrishnan Sreekumar born on November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
   
   I am a computational researcher specialized in the research of efficient numerical methods and solving strategies. Experienced with developing high performance numerical softwares in a sustainable manner, also designing from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies and model order reduction techniques so as to reduce large-scale dimension of computational models. In addition, I am greatly fascinated by codes that are pushing the actual scientific limits.
 
@@ -54,6 +54,7 @@ content:
         sub_title: Researcher and Doctoral Student
         caption: February 2019 - Present
         description: | 
+            - Since August 2023 - Research coordinator for the InAD Research Field "Multidisciplinary Simulations"
             - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
             - Researcher for the DFG Suresoft project for Sustainable Research Software Development and Deployment
             - Contact person and lead developer for the in-house research code elPaSo
@@ -105,6 +106,7 @@ content:
           For latest publications visit my profile on ResearchGate
         description: |
           **Research papers** 
+          - C. Blech, H. K. Sreekumar, Y. Hüpel, S. C. Langer: Efficient solution strategies for cabin noise assessment of a wave resolving aircraft fuselage model. ArXiV preprint. DOI: [10.48550/arXiv.2310.04734](https://doi.org/10.48550/arXiv.2310.04734). 2023.
           - Y. Hüpel, C. Blech, H. K. Sreekumar, S. C. Langer: Efficient solutions of preconditioned large‐scale systems for simulative aircraft cabin noise assessment. In: Proceedings in Applied Mathematics and Mechanics. DOI: [10.1002/pamm.202300102](https://doi.org/10.1002/pamm.202300102). 2023.
           - H. K. Sreekumar, L. Outzen, U. Römer and S. C. Langer: Clustering-based parametric surrogate modeling of vibroacoustic problems assisted by neural networks and active subspace method, in: Adaptive modeling and simulation (ADMOS) 2023. DOI: [10.23967/admos.2023.009](https://doi.org/10.23967/admos.2023.009)
           - H. K. Sreekumar, C. Blech, S. C. Langer: Sustainable development and deployment of an acoustic FEM research software. In: Proceedings of DAGA 2023, Hamburg, Germany. 2023.
@@ -127,6 +129,7 @@ content:
       - layout: top-middle
         description: | 
           **Conducted workshops**
+          - [Upcoming] Workshop for HeFDI (Hessian Research Data Infrastructures) Code School in November 2023 - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation.
           - [Online] Workshop for HeFDI (Hessian Research Data Infrastructures) Code School in June 2023 - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation. # participants: 72. DOI: [10.5281/zenodo.8069917](https://doi.org/10.5281/zenodo.8069917)
           - [Online] Workshop for TU Braunschweig in August 2022: Suresoft workshop series - Introduction to software testing - Unit testing, acceptance testing, code-quality checks and test automation. # participants: 47. DOI: [10.24355/dbbs.084-202212141407-0](https://doi.org/10.24355/dbbs.084-202212141407-0)
           - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
@@ -157,7 +160,7 @@ content:
         description: | 
           Cycling 🚴, photography 📷, travelling ✈️
 
-          *I will soon post my favorite pictures here ;)*
+          *Follow my instagram handle for my favorite pictures ;)*
 
 # Footer
 footer_show_references: false
