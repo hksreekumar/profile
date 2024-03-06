@@ -83,7 +83,16 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Master of Science in Computational Sciences in Engineering
+        title: Doctor of Engineering (Dr.-Ing.) in Mechanical Engineering
+        sub_title: Technische Universität Braunschweig
+        caption: February 2019 - Present (expected completion in 2024)
+        description: |
+            - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
+            - Dimensionality reduction techniques
+            - Techniques for efficient solving of large-scale mechanical systems
+
+      - layout: top
+        title: Master of Science (M. Sc.) in Computational Sciences in Engineering
         sub_title: Technische Universität Braunschweig
         caption: October 2015 - December 2018
         description: |
