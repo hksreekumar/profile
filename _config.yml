@@ -85,7 +85,7 @@ content:
       - layout: top
         title: Doctor of Engineering (Dr.-Ing.) in Mechanical Engineering
         sub_title: Technische Universität Braunschweig
-        caption: February 2019 - Present (expected completion in 2024)
+        caption: February 2019 - Present (expected completion by mid 2024)
         description: |
             - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
             - Dimensionality reduction techniques
@@ -148,6 +148,9 @@ content:
           - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
 
           **Teaching activities**
+          - Lecture on "Modelling of complex systems / Modellierung komplexe Systeme" for bachelor course Digitalisation in Aerospace Engineering. 2024.
+          - Lecture on "Data and Code Management" for bachelor course Digitalisation in Aerospace Engineering. 2024.
+          - Teaching assistant for master course "Computational Acoustics". 2024.
           - Teaching assistant for master course "Computational Acoustics". 2023.
           - Teaching assistant for master course "Computational Acoustics". 2022.
           - Teaching assistant for master course "Computational Acoustics". 2021.
