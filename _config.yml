@@ -51,13 +51,16 @@ content:
         title: Technische Universität Braunschweig | Institute for Acoustics and Dynamics, Germany
         link: https://www.tu-braunschweig.de/ina/institut/team/harikrishnan-k-sreekumar
         link_text: tu-braunschweig.de
-        sub_title: Researcher and Doctoral Student
+        sub_title: Research associate
         caption: February 2019 - Present
         description: | 
-            - Since August 2023 - Research coordinator for the InAD Research Field "Multidisciplinary Simulations"
+            - Since August 2023 - Research coordinator for the InAD Research Field "Physics-based Modelling and Simulations"
             - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
-            - Researcher for the DFG Suresoft project for Sustainable Research Software Development and Deployment
-            - Contact person and lead developer for the in-house research code elPaSo
+            - Enabled efficient computation of expensive multi-physic aircraft simulations for various fuselage designs using faster (heavy) data management, optimized solvers and parametric reduced order models
+            - Lead developer and contact person for the in-house high-performance computing C++ software project
+            - Managed C++ and python software projects (with approx. 300000 lines of code and 8 active developers)
+            - Raised the quality of the computational codes as a project member of SURESOFT: Sustainable Research Software Development and Deployment
+            - Other key activities: advised 7 master thesis projects, assisted master courses, lectured 3 seminar talks, presented work in 7 international conferences, published 12 research papers, 2 software publications and conducted 4~dynamic workshops related to scientific software development (252 participants) 
       - layout: top
         title: BMW Group, Munich | Research, New Technologies, Innovations
         sub_title: Master Thesis Intern
@@ -69,25 +72,27 @@ content:
         sub_title: Research Intern
         caption: November 2017 - June 2018
         description: | 
-            - Development of an in-house research code based on finite element method written in C++
+            - Developed a C++ tool for model order reduction and application to automotive problems like the BMW i7 rear axle model for vibroacoustic analysis
+            - Implemented advanced algorithms using math routines with Intel Math Kernel Library (MKL) and visualization of simulated data with Qt and Visualization Toolkit (VTK)
+            - Built finite element routine for steady-state dynamic systems with fluid-structure interaction, various boundary conditions and distributed load coupling
       - layout: top
         title: Technische Universität Braunschweig | Institute for Engineering Design
         sub_title: Student research assistant
         caption: June 2016 - October 2017
         description: | 
             - Acoustic simulation of various geometries for static, frequency and time domain analysis
-            - Development of an in-house research code elPaSo based on FEM in C++
-            - Development of an uncertainty quantification module in elPaSo
+            - Maintained a high-performance computing C++ FEM code for better performance and maintenance of software dependencies (MPI, PETSc, SLEPc, ARPACK, HDF5)
+            - Development of an uncertainty quantification module in python
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: top
-        title: Doctor of Engineering (Dr.-Ing.) in Mechanical Engineering
+        title: Doctor of Engineering (Dr.-Ing.) in Mechanical Engineering / Computational Sciences
         sub_title: Technische Universität Braunschweig
         caption: February 2019 - Present (expected completion by mid 2024)
         description: |
-            - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
+            - Successfully submitted dissertation titled  "Surrogate modelling of high-dimensional vibroacoustic problems using parametric model order reduction" and application to large-scale novel aircraft design concepts
             - Dimensionality reduction techniques
             - Techniques for efficient solving of large-scale mechanical systems
 
@@ -129,8 +134,16 @@ content:
           - Y. Hüpel, H. K. Sreekumar, S. C. Langer:  Pole-Matching Technique for Parametric Model Order Reduction of Second Order Vibroacoustic Systems. In: Proceedings of DAGA 2021, Vienna, Austria. 2021.
 
           **Software publications**
+          - H. K. Sreekumar: elPaSo AcMoRe - Python module for faster training and evaluation of vibroacoustic systems with model order reduction. DOI: [10.24355/dbbs.084-202301301305-0](https://doi.org/10.24355/dbbs.084-202403151156-0). 2024.
+          - H. K. Sreekumar, S. C. Langer: elPaSo Research - Elementary parallel solver research module for high performance vibroacoustic simulations. DOI: [10.24355/dbbs.084-202403151154-0](https://doi.org/10.24355/dbbs.084-202403151154-0). 2024.
           - H. K. Sreekumar, S. C. Langer: elPaSo Core - Elementary parallel solver core module for high performance vibroacoustic simulations. DOI: [10.24355/dbbs.084-202301301305-0](https://doi.org/10.24355/dbbs.084-202301301305-0). 2023.
           - H. K. Sreekumar, C. Blech, S. C. Langer: elPaSo AUTOMATE - Automated testing framework for validation and verification of a vibroacoustic simulation tool. DOI: [10.24355/dbbs.084-202301301258-0](https://doi.org/10.24355/dbbs.084-202301301258-0). 2023.
+
+          **Dataset publications**
+          - H. K. Sreekumar: Dataset for the study of frequency-domain model order reduction techniques in vibroacoustic applications. DOI: [10.24355/dbbs.084-202403151158-0](https://doi.org/10.24355/dbbs.084-202403151158-0). 2024.
+          - H. K. Sreekumar: Dataset for the study of various error measures steering adaptive model order reduction algorithms in vibroacoustic applications. DOI: [10.24355/dbbs.084-202403151201-0](https://doi.org/10.24355/dbbs.084-202403151201-0). 2024.
+          - H. K. Sreekumar: Dataset for the study of parametric-domain model order reduction techniques in vibroacoustic applications. DOI: [10.24355/dbbs.084-202403151200-0](https://doi.org/10.24355/dbbs.084-202403151200-0). 2024.
+          - H. K. Sreekumar, S. C. Langer: Benchmark dataset for verification and validation of elPaSo Core module. DOI: [10.5281/zenodo.7612532](https://doi.org/10.5281/zenodo.7612532). [Zenodo] 2023.
   
   - title: Misc activities
     layout: list
@@ -148,8 +161,8 @@ content:
           - [Online] Workshop for TU Braunschweig in September 2022: Suresoft workshop series - Introduction to Continuous Integration (CI) with GitLab and Containerization with Docker. # participants: 39. DOI: [10.24355/dbbs.084-202212141353-0](https://doi.org/10.24355/dbbs.084-202212141353-0)
 
           **Teaching activities**
-          - Lecture on "Modelling of complex systems / Modellierung komplexe Systeme" for bachelor course Digitalisation in Aerospace Engineering. 2024.
-          - Lecture on "Data and Code Management" for bachelor course Digitalisation in Aerospace Engineering. 2024.
+          - Lecture on "Modelling of complex systems / Modellierung komplexe Systeme" for bachelor course Digitalisation in Aerospace Engineering (Digitalisierung Luft und Raumfahrtechnik). April, 2024.
+          - Lecture on "Data and Code Management" for bachelor course Digitalisation in Aerospace Engineering (Digitalisierung Luft und Raumfahrtechnik). April, 2024.
           - Teaching assistant for master course "Computational Acoustics". 2024.
           - Teaching assistant for master course "Computational Acoustics". 2023.
           - Teaching assistant for master course "Computational Acoustics". 2022.
@@ -157,7 +170,7 @@ content:
           - Teaching assistant for master course "Computational Acoustics". 2020.
           - Teaching assistant for master course "Computational Acoustics". 2019.
 
-          **Talks**
+          **Other talks/invited lectures**
           - Error-controlled local interpolation of moment matching reduced order models for vibroacoustics. Invited talk in minisymposium "Error-Controlled Adaptive Algorithms in Full-Order and Reduced-Order Model Simulations". International Congress on Industrial and Applied Mathematics (ICIAM) 2023, Waseda University, Tokyo, Japan.
           - Machine-Learning and efficient computational models in acoustics. TU Braunschweig lecture series Fascination Acoustics in summer semester 2021.
 
@@ -175,7 +188,7 @@ content:
     content:
       - layout: top-middle
         description: | 
-          Cycling 🚴, photography 📷, travelling ✈️
+          Cycling 🚴, padel tennis 🎾, photography 📷, travelling ✈️
 
           *Follow my instagram handle for my favorite pictures ;)*
 
