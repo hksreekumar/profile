@@ -5,8 +5,8 @@ favicon: images/favicon(1).ico
 version: 2
 
 # Personal info
-name: Harikrishnan Sreekumar, M.Sc.
-title: Computational Researcher
+name: Dr.-Ing. Harikrishnan Sreekumar
+title: Computational Expert
 email: hk.sreekumar@icloud.com
 website: https://hksreekumar.github.io/profile/
 
@@ -34,9 +34,9 @@ google_site_verification: _nFGPGIAoZhF300eX0YmKZd6kZZsDivsyOS9e4YIiuA
 about_title: About
 about_profile_image: images/hk.jpg
 about_content: | 
-  Hi! I am Harikrishnan Sreekumar born on November 1993 in Kerala, India. Currently I live in Braunschweig, Germany to acquire my doctoral degree.
+  Hi! I am Harikrishnan Sreekumar born on November 1993 in Kerala, India. Currently I work in Munich, Germany.
   
-  I am a computational researcher specialized in the research of efficient numerical methods and solving strategies. Experienced with developing high performance numerical softwares in a sustainable manner, also designing from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies and model order reduction techniques so as to reduce large-scale dimension of computational models. In addition, I am greatly fascinated by codes that are pushing the actual scientific limits.
+  I am a computational expert specialized in the research of efficient numerical methods and solving strategies. Experienced with developing high performance numerical softwares in a sustainable manner, also designing from scratch, to handle solving algorithms for sophisticated problems by deploying high-end parallel programming methodologies and model order reduction techniques so as to reduce large-scale dimension of computational models. In addition, I am greatly fascinated by codes that are pushing the actual scientific limits.
 
   My interests: <br/>
   <mark>Numerical methods</mark> <mark>Algorithms</mark> <mark>C++</mark> <mark>Data-driven methods</mark> <mark>Dimensionality reduction</mark> <mark>High performance computing</mark><br/>
@@ -48,11 +48,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top
+        title: Dassault Systèmes | Munich, Germany
+        sub_title: SIMULIA R&D Motion Software Engineering Manager
+        caption: November 2024 - present
+        description: |
+            - Research and development of motion simulation and multi-body dynamics
+      - layout: top
         title: Technische Universität Braunschweig | Institute for Acoustics and Dynamics, Germany
-        link: https://www.tu-braunschweig.de/ina/institut/team/harikrishnan-k-sreekumar
-        link_text: tu-braunschweig.de
+        # link: https://www.tu-braunschweig.de/ina/institut/team/harikrishnan-k-sreekumar
+        # link_text: tu-braunschweig.de
         sub_title: Research associate
-        caption: February 2019 - Present
+        caption: February 2019 - October 2024
         description: | 
             - Since August 2023 - Research coordinator for the InAD Research Field "Physics-based Modelling and Simulations"
             - Doctoral research on parametric surrogate modeling of high-dimensional vibroacoustic problems using projection-based model order reduction
@@ -90,9 +96,9 @@ content:
       - layout: top
         title: Doctor of Engineering (Dr.-Ing.) in Mechanical Engineering / Computational Sciences
         sub_title: Technische Universität Braunschweig
-        caption: February 2019 - Present (expected completion by mid 2024)
+        caption: February 2019 - October 2024
         description: |
-            - Successfully submitted dissertation titled  "Surrogate modelling of high-dimensional vibroacoustic problems using parametric model order reduction" and application to large-scale novel aircraft design concepts
+            - Dissertation titled  "Surrogate modeling of high-dimensional vibroacoustic problems using parametric model order reduction"
             - Dimensionality reduction techniques
             - Techniques for efficient solving of large-scale mechanical systems
 
